@@ -14,7 +14,7 @@ using a fixed CNN architecture. Every optimizer receives the same model, the sam
 data, and the same learning rate. The only variable is the update rule.
 
 The tutorial covers:
-- Mathematical intuition behind each optimizer
+- The intuition behind each optimizer
 - Convergence speed and learning rate sensitivity
 - Loss landscape visualisation via PCA projection
 - Decision boundary analysis on a spiral dataset
